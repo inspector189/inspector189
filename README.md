@@ -8,7 +8,7 @@
 - Astronomy 🌌🔭
 ##
 - 🌱 I’m currently learning: C#, C++ **(Unity, UE)**
-- 💼 I'm currently working on mobile app for my school - *Electronic diary on a map using GPS*
+- 💼 I'm currently working on multiplayer game in Unreal Engine
 - 💬 Ask me about **everything**
 - 📫 How to reach me: tulciak189@gmail.com
 ##
