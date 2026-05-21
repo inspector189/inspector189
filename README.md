@@ -22,7 +22,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp/default.asp)
 ##
 ### Social Media
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/50px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="50" height="50">](https://www.linkedin.com/in/marta-błaszczyk-4a45042a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marta-błaszczyk-4a45042a6/)
 
 
 
