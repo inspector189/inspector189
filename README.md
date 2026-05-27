@@ -7,7 +7,7 @@
 - Swimming 🏊‍♀️❤️
 - Astronomy 🌌🔭
 ##
-- 🌱 I’m currently learning: C#, C++ **(Unity, UE)**
+- 🌱 I’m currently learning: ASP.NET Core, C#, C++ (Unreal Engine)
 - 💼 I'm currently working on game in Unreal Engine - Our Lost Humanity - UI Programmer / Gameplay Programmer
 - 💬 Ask me about **everything**
 - 📫 How to reach me: tulciak189@gmail.com
